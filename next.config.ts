@@ -2,7 +2,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-	assetPrefix: "/Sunary-Website/",
+	assetPrefix: "/404-not-found/",
 	// assetPrefix: '/',
 	reactStrictMode: true,
 	images: {
